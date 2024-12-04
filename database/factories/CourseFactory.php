@@ -10,8 +10,11 @@ class CourseFactory extends Factory {
     protected $model = Course::class;
 
     public function definition(): array {
-        return [
 
-            ];
+        return [
+            'title' => $this->faker->sentence,
+            'description' => $this->faker->paragraph,
+        ];
+
     }
 }
