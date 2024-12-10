@@ -2,7 +2,7 @@
 
 ## Los invitados pueden 
 * ver la descripción de los cursos (página home) OK
-* ver los detalles del curso (página)
+* ver los detalles del curso (página) OK
 * Comprar un curso (Se accede desde los detalles del curso)
 
 ## Los miembros pueden
